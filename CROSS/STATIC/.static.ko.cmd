@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/CROSS/STATIC/static.ko := arm-linux-gnueabihf-ld -r  -EL -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/training/Desktop/dd/CROSS/STATIC/static.ko /home/training/Desktop/dd/CROSS/STATIC/static.o /home/training/Desktop/dd/CROSS/STATIC/static.mod.o;  true

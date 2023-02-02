@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/devicenumstatic/STATIC/static.mod := { echo  /home/training/Desktop/dd/devicenumstatic/STATIC/static.o;  echo; } > /home/training/Desktop/dd/devicenumstatic/STATIC/static.mod

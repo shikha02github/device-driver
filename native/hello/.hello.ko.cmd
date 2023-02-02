@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/native/hello/hello.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/training/Desktop/dd/native/hello/hello.ko /home/training/Desktop/dd/native/hello/hello.o /home/training/Desktop/dd/native/hello/hello.mod.o;  true

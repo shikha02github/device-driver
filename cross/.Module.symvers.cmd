@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/cross/Module.symvers := sed 's/\.ko$$/\.o/' /home/training/Desktop/dd/cross/modules.order | scripts/mod/modpost -m -a  -o /home/training/Desktop/dd/cross/Module.symvers -e -i Module.symvers   -T -

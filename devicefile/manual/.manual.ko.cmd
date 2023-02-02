@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/devicefile/manual/manual.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/training/Desktop/dd/devicefile/manual/manual.ko /home/training/Desktop/dd/devicefile/manual/manual.o /home/training/Desktop/dd/devicefile/manual/manual.mod.o;  true

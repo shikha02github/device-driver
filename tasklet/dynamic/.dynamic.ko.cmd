@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/tasklet/dynamic/dynamic.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/training/Desktop/dd/tasklet/dynamic/dynamic.ko /home/training/Desktop/dd/tasklet/dynamic/dynamic.o /home/training/Desktop/dd/tasklet/dynamic/dynamic.mod.o;  true

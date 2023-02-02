@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/CROSS/DYNAMIC/dynamic.ko := arm-linux-gnueabihf-ld -r  -EL -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/training/Desktop/dd/CROSS/DYNAMIC/dynamic.ko /home/training/Desktop/dd/CROSS/DYNAMIC/dynamic.o /home/training/Desktop/dd/CROSS/DYNAMIC/dynamic.mod.o;  true

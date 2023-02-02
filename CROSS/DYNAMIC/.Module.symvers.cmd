@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/CROSS/DYNAMIC/Module.symvers := sed 's/\.ko$$/\.o/' /home/training/Desktop/dd/CROSS/DYNAMIC/modules.order | scripts/mod/modpost -m -a  -o /home/training/Desktop/dd/CROSS/DYNAMIC/Module.symvers -e -i Module.symvers   -T -

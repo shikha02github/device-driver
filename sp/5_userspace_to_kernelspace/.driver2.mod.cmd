@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/sp/5_userspace_to_kernelspace/driver2.mod := { echo  /home/training/Desktop/dd/sp/5_userspace_to_kernelspace/driver2.o;  echo; } > /home/training/Desktop/dd/sp/5_userspace_to_kernelspace/driver2.mod

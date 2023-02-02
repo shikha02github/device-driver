@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/CROSS/DYNAMIC/modules.order := {   echo /home/training/Desktop/dd/CROSS/DYNAMIC/dynamic.ko; :; } | awk '!x[$$0]++' - > /home/training/Desktop/dd/CROSS/DYNAMIC/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/dd/cross/hii.ko := arm-linux-gnueabihf-ld -r  -EL -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/training/Desktop/dd/cross/hii.ko /home/training/Desktop/dd/cross/hii.o /home/training/Desktop/dd/cross/hii.mod.o;  true
